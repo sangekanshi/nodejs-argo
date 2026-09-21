@@ -1,6 +1,6 @@
 {
   "name": "nodejs",
-  "version": "1,0,0",
+  "version": "1.0.0",
   "description": "Thsi is a node project",
   "main": "index.js",
   "author": "",
@@ -10,9 +10,6 @@
   "scripts": {
     "dev": "node index.js",
     "start": "node index.js"
-  },
-  "dependencies": {
-    "axios": "latest"
   },
   "engines": {
     "node": ">=14"
